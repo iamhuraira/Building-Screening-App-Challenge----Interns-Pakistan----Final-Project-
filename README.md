@@ -22,9 +22,8 @@ It is complete Jquery app  website. In this webite I'm making corona screening a
 
 ### Links
 
-Coming Soon...
-<!-- - Solution URL: [Solution Link](https://github.com/iamhuraira/Cofena_Website)
-- Live Site URL: [Live Site ](https://iamhuraira.github.io/Cofena_Website/) -->
+- Solution URL: [Solution Link](https://github.com/iamhuraira/Building-Screening-App-Challenge----Interns-Pakistan----Final-Project-)
+- Live Site URL: [Live Site ](https://iamhuraira.github.io/Building-Screening-App-Challenge----Interns-Pakistan----Final-Project-/) 
 
 ## My process
 
