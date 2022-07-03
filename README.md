@@ -1,6 +1,4 @@
-# Building-Screening-App-Challenge----Interns-Pakistan----Final-Project-
-
-# Portfolio One Page Responsive Website Project in ReactJs
+# Screening-App-Challenge--Interns-Pakistan--Final-Project-
 
 
 ## Table of contents
