@@ -48,7 +48,6 @@ This challenge helped me better understand the Bootstrap, jquery , css and Html.
 - [w3schools](https://www.w3schools.com/) - This helped me with the introduction into the rules of each language.
 - [interns.pk](https://www.interns.pk/) - This helped me with the Instructions.
 - [mozilla developer](https://developer.mozilla.org/) - This helps me with questions.
-- [Youtube] This helps me with tutorials.
 
 ## Author
 
